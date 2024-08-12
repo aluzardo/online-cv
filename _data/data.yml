@@ -87,21 +87,14 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Operations Support Manager
+        time: 2022 - 2024
+        company: CIRCL Technologies Ltd, Remote
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
+          The role of Operations Support Manager covers three roles in one 
+            - Release manager: Be responsible for and facilitate the process required to move software releases into production while coordinating with different teams to ensure the smooth delivery of software releases with little customer disruption. 
+            - Technical support manager: Maintaining the trust of our customers and partners by ensuring that technical queries received are handled with a highly developed sense of professional efficiency. 
+            - Technical integration manager: This position will act as the technical expert for products and solutions in both new customer and partner integrations as well as existing customers and partners enhancement projects and manage communication between internal and external stakeholders on technical matters.
       - role: Senior Software Engineer
         time: 2014 - 2015
         company: Google, London
