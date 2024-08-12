@@ -88,35 +88,26 @@ experiences:
     title: Experiences
     info:
       - role: Operations Support Manager
-        time: 2022 - 2024
+        time: 2022 - 2024 · 1 years
         company: CIRCL Technologies Ltd, Remote
         details: |
           The role of Operations Support Manager covers three roles in one 
             - Release manager: Be responsible for and facilitate the process required to move software releases into production while coordinating with different teams to ensure the smooth delivery of software releases with little customer disruption. 
             - Technical support manager: Maintaining the trust of our customers and partners by ensuring that technical queries received are handled with a highly developed sense of professional efficiency. 
             - Technical integration manager: This position will act as the technical expert for products and solutions in both new customer and partner integrations as well as existing customers and partners enhancement projects and manage communication between internal and external stakeholders on technical matters.
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+      - role: Lead Technical Support Engineer
+        time: 2016 - 2022 · 6 years
+        company: Gaming Innovation Group, Remote
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+          Led the "GiG Magic Brand Support" team remotely, supporting frontend developers from major casinos, managing the GiG Magic API, and ensuring smooth operation and bug fixes
+          My technical expertise facilitated the migration from a monolithic to a microservices architecture and played a key role in integrating new casinos and developing new features.
+      - role: Full-stack Developer
+        time: 2015 - 2016 · 1 year
+        company: Symless, Reading(UK)
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Worked as a Full-stack Developer in the UK, focusing on web development with Symfony2, PHP, and related technologies
+          I contributed to various projects and worked under SCRUM methodology.
+
 #    info:
 #    - role: Operations Support Manager
 #      time: 2022 - 2024
