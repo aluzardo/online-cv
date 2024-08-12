@@ -88,8 +88,11 @@ experiences:
         time: 2016 - 2022 (6 years)
         company: Gaming Innovation Group, Remote
         details: |
-          Led the "GiG Magic Brand Support" team remotely, supporting frontend developers from major casinos, managing the GiG Magic API, and ensuring smooth operation and bug fixes
-          My technical expertise facilitated the migration from a monolithic to a microservices architecture and played a key role in integrating new casinos and developing new features.
+          My final role at GIG was Lead Technical Support Engineer, though I previously held several other positions within the company:
+          - Lead Technical Support Engineer: Led the "GiG Magic Brand Support" team remotely, supporting frontend developers from major casinos, managing the GiG Magic API, and ensuring smooth operation and bug fixes.
+          - Software Developer: Contributed to the backend development and optimization of the GiG Magic backend API as part of the GIG Magic Backend Team. My work involved significant backend migrations and rewrites, enhancing API functionality, and supporting a distributed team across various locations.
+          - QA Engineer: Worked as a QA Engineer for three casino platforms: Kaboo, Superlenny, and Thrills. Developed an open-source End-to-End testing framework using Protractor, Cucumber, Appium, Yarn, and NPM. This framework was used to automatically perform end-to-end tests on physical devices for multiple web and mobile casinos. Conducted smoke testing, managed GitHub and ZenHub issues, and implemented Behavior Driven Development. Participated in TestWorks Conf '16 in Amsterdam to stay updated with industry practices.
+          - Junior Frontend Developer: Worked on frontend development for two casino platforms, Kaboo and SuperLenny, utilizing AngularJS. Responsibilities included fixing bugs to ensure a smooth user experience, developing and implementing small features to enhance functionality and user interface, and collaborating with the team using GitHub for version control and code integration.
       - role: Full-stack Developer
         time: 2015 - 2016 (1 year)
         company: Symless, Reading (UK)
