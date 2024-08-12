@@ -25,7 +25,7 @@ sidebar:
     gitlab:
     bitbucket:
     twitter: '@AdolfoLuzardo'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    stack-overflow: 4210597/adolfo-luzardo-cabrera # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: https://aluzardo.github.io/CVAdolfoLuzardoCabrera.pdf
@@ -46,9 +46,6 @@ sidebar:
           link:
 
         - item: 🔗 Blockchain
-          link:
-
-        - item: ₿ Bitcoin
           link:
 
         - item: 🍲 Gastronomy 
@@ -80,7 +77,7 @@ experiences:
     title: Experiences
     info:
       - role: Operations Support Manager
-        time: 2022 - 2024 · 2 years
+        time: 2022 - 2024 (2 years)
         company: CIRCL Technologies Ltd, Remote
         details: |
           The role of Operations Support Manager covers three roles in one 
@@ -88,19 +85,19 @@ experiences:
             - Technical support manager: Maintaining the trust of our customers and partners by ensuring that technical queries received are handled with a highly developed sense of professional efficiency. 
             - Technical integration manager: Technical expert for products and solutions in both new customer and partner integrations as well as existing customers and partners enhancement projects and manage communication between internal and external stakeholders on technical matters.
       - role: Lead Technical Support Engineer
-        time: 2016 - 2022 · 6 years
+        time: 2016 - 2022 (6 years)
         company: Gaming Innovation Group, Remote
         details: |
           Led the "GiG Magic Brand Support" team remotely, supporting frontend developers from major casinos, managing the GiG Magic API, and ensuring smooth operation and bug fixes
           My technical expertise facilitated the migration from a monolithic to a microservices architecture and played a key role in integrating new casinos and developing new features.
       - role: Full-stack Developer
-        time: 2015 - 2016 · 1 year
+        time: 2015 - 2016 (1 year)
         company: Symless, Reading (UK)
         details: |
           Worked as a Full-stack Developer in the UK, focusing on web development with Symfony2, PHP, and related technologies
           I contributed to various projects and worked under SCRUM methodology.
       - role: Full-stack Developer
-        time: 2014 - 2015 · 1 year
+        time: 2014 - 2015 (1 year)
         company: Singular Factory, Canary Islands (Spain)
         details: |
           Began my career as a Full-stack Developer, working on both web and mobile applications. My projects involved technologies like Symfony2, AngularJS, and Java for Android development.
