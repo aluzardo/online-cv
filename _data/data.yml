@@ -33,10 +33,10 @@ sidebar:
     languages:
       title: Languages
       info:
-        - idiom: Spanish
+        - idiom: 🇪🇸 Spanish
           level: Native
 
-        - idiom: English
+        - idiom: 🇬🇧 English
           level: Professional
 
     interests:
@@ -46,6 +46,9 @@ sidebar:
           link:
 
         - item: Blockchain
+          link:
+
+        - item: Bitcoin
           link:
 
         - item: Gastronomy 
