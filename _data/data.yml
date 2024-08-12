@@ -42,19 +42,19 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item: Fintech
+        - item: 💰 Fintech
           link:
 
-        - item: Blockchain
+        - item: 🔗 Blockchain
           link:
 
-        - item: Bitcoin
+        - item: ₿ Bitcoin
           link:
 
-        - item: Gastronomy 
+        - item: 🍲 Gastronomy 
           link:
 
-        - item: Travelling 
+        - item: ✈️ Travelling 
           link: 
 
 career-profile:
@@ -65,7 +65,7 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: Bachelor's Degree in Telecommunications Technology Engineering
+      - degree: 🎓 Bachelor's Degree in Telecommunications Technology Engineering
         university: ULPGC
         time: 2009 - 2014
         details: |
@@ -86,7 +86,7 @@ experiences:
           The role of Operations Support Manager covers three roles in one 
             - Release manager: Be responsible for and facilitate the process required to move software releases into production while coordinating with different teams to ensure the smooth delivery of software releases with little customer disruption. 
             - Technical support manager: Maintaining the trust of our customers and partners by ensuring that technical queries received are handled with a highly developed sense of professional efficiency. 
-            - Technical integration manager: This position will act as the technical expert for products and solutions in both new customer and partner integrations as well as existing customers and partners enhancement projects and manage communication between internal and external stakeholders on technical matters.
+            - Technical integration manager: Technical expert for products and solutions in both new customer and partner integrations as well as existing customers and partners enhancement projects and manage communication between internal and external stakeholders on technical matters.
       - role: Lead Technical Support Engineer
         time: 2016 - 2022 · 6 years
         company: Gaming Innovation Group, Remote
@@ -109,22 +109,22 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Release Management
+      - name: 🚀 Release Management
         level: 98%
 
-      - name: Team Leadership
+      - name: 👥 Team Leadership
         level: 97%
 
-      - name: Customer Service
+      - name: 📞 Customer Service
         level: 75%
 
-      - name: Technical Communication
+      - name: 🗣 Technical Communication
         level: 95%
 
-      - name: Software Development
+      - name: 💻 Software Development
         level: 85%
 
-      - name: Problem solving
+      - name: 🧠 Problem solving
         level: 98%
 
 footer: 
