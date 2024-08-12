@@ -73,17 +73,6 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
 experiences:
     title: Experiences
     info:
@@ -103,7 +92,7 @@ experiences:
           My technical expertise facilitated the migration from a monolithic to a microservices architecture and played a key role in integrating new casinos and developing new features.
       - role: Full-stack Developer
         time: 2015 - 2016 · 1 year
-        company: Symless, Reading(UK)
+        company: Symless, Reading (UK)
         details: |
           Worked as a Full-stack Developer in the UK, focusing on web development with Symfony2, PHP, and related technologies
           I contributed to various projects and worked under SCRUM methodology.
