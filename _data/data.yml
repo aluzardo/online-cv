@@ -85,25 +85,45 @@ experiences:
             - Technical support manager: Maintaining the trust of our customers and partners by ensuring that technical queries received are handled with a highly developed sense of professional efficiency. 
             - Technical integration manager: Technical expert for products and solutions in both new customer and partner integrations as well as existing customers and partners enhancement projects and manage communication between internal and external stakeholders on technical matters.
       - role: Lead Technical Support Engineer
+        time: 2022 - 2022 (10 months)
+        company: Gaming Innovation Group, Remote
+        details: |
+          Led the "GiG Magic Brand Support" team, working 100% remotely to provide expert support to frontend developers from HardrockCasino, Guts, Thrills, Superlenny, Highroller, Rolla, and Betspin. In this role, I was responsible for:
+           - Assisting and educating frontend developers on the use of the GiG Magic API, Hubot, and Cashier Payment App.
+           - Sharing knowledge and best practices regarding our APIs and applications.
+           - Diagnosing and resolving bugs in the GiG Magic API, Hubot, and Cashier Payment App. 
+           - Developing and implementing new features for these systems to enhance functionality and performance.
+           - Prioritizing and managing tasks and issues on our project board.
+           - Monitoring system logs and communication channels to ensure system stability and performance.
+           - Providing 24/7 production support, promptly addressing and fixing issues as they arose.
+           - Investigating and identifying problems within the GiG Magic API, Hubot, or Cashier Payment App.-
+           - Onboarding and training new team members on our systems and processes.-
+           - Deploying and releasing new versions of the GiG Magic API.
+      - role: Software Developer
         time: 2016 - 2022 (6 years)
         company: Gaming Innovation Group, Remote
         details: |
-          My final role at GIG was Lead Technical Support Engineer, though I previously held several other positions within the company:
-          - Lead Technical Support Engineer: Led the "GiG Magic Brand Support" team remotely, supporting frontend developers from major casinos, managing the GiG Magic API, and ensuring smooth operation and bug fixes.
-          - Software Developer: Contributed to the backend development and optimization of the GiG Magic backend API as part of the GIG Magic Backend Team. My work involved significant backend migrations and rewrites, enhancing API functionality, and supporting a distributed team across various locations.
-          - QA Engineer: Worked as a QA Engineer for three casino platforms: Kaboo, Superlenny, and Thrills. Developed an open-source End-to-End testing framework using Protractor, Cucumber, Appium, Yarn, and NPM. This framework was used to automatically perform end-to-end tests on physical devices for multiple web and mobile casinos. Conducted smoke testing, managed GitHub and ZenHub issues, and implemented Behavior Driven Development. Participated in TestWorks Conf '16 in Amsterdam to stay updated with industry practices.
-          - Junior Frontend Developer: Worked on frontend development for two casino platforms, Kaboo and SuperLenny, utilizing AngularJS. Responsibilities included fixing bugs to ensure a smooth user experience, developing and implementing small features to enhance functionality and user interface, and collaborating with the team using GitHub for version control and code integration.
+         Contributed to the backend development and optimization of the GiG Magic backend API as part of the GIG Magic Backend Team. My work involved significant backend migrations and rewrites, enhancing API functionality, and supporting a distributed team across various locations. My technical expertise facilitated the migration from a monolithic to a microservices architecture and played a key role in integrating new casinos and developing new features.
+      - role: QA Engineer
+        time: 2016 - 2016 (5 months)
+        company: Gaming Innovation Group, Marbella (Spain)
+        details: |
+          Worked as a QA Engineer for three casino platforms: Kaboo, Superlenny, and Thrills. Developed an open-source End-to-End testing framework using Protractor, Cucumber, Appium, Yarn, and NPM. This framework was used to automatically perform end-to-end tests on physical devices for multiple web and mobile casinos. Conducted smoke testing, managed GitHub and ZenHub issues, and implemented Behavior Driven Development. Participated in TestWorks Conf '16 in Amsterdam to stay updated with industry practices.
+      - role: Junior Frontend Developer
+        time: 2016 - 2016 (3 months)
+        company: Gaming Innovation Group, Marbella (Spain)
+        details: |
+          Worked on frontend development for two casino platforms, Kaboo and SuperLenny, utilizing AngularJS. Responsibilities included fixing bugs to ensure a smooth user experience, developing and implementing small features to enhance functionality and user interface, and collaborating with the team using GitHub for version control and code integration.
       - role: Full-stack Developer
         time: 2015 - 2016 (1 year)
         company: Symless, Reading (UK)
         details: |
-          Worked as a Full-stack Developer in the UK, focusing on web development with Symfony2, PHP, and related technologies
-          I contributed to various projects and worked under SCRUM methodology.
+          Worked as a Full-stack Developer in the UK, focusing on web development with Symfony2, PHP, and related technologies. I worked under SCRUM methodology.
       - role: Full-stack Developer
         time: 2014 - 2015 (1 year)
         company: Singular Factory, Canary Islands (Spain)
         details: |
-          Began my career as a Full-stack Developer, working on both web and mobile applications. My projects involved technologies like Symfony2, AngularJS, and Java for Android development.
+          Began my career as a Full-stack Developer, working on both web and mobile applications. My projects involved technologies like Symfony2, PHP, AngularJS, and Java for Android development.
 
 skills:
     title: Skills &amp; Proficiency
