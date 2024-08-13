@@ -1,7 +1,3 @@
-#
-# Be aware that even a small syntax error here can lead to failures in output.
-#
-
 sidebar:
     position: left # position of the sidebar : left or right
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
@@ -57,7 +53,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Experienced technology professional with over 10 years of expertise in software development, technical support, and technical operations management. Significant roles at GIG and CIRCL involved leading technical teams and managing complex projects. Proven track record in software development, managing releases, and handling technical integrations. Expertise spans various sectors, including gaming, logistics, and technical consulting.
+      Experienced technology professional with over 10 years of expertise in software development, technical support, and technical operations management. Significant roles at GIG and CIRCL involved leading technical teams and managing complex projects. Proven track record in software development, managing releases, and handling technical integrations. Expertise spans various sectors, including iGaming, logistics, and technical consulting.
       
       Extensive experience working 100% remotely and in English, demonstrating effective management of teams and projects in a virtual environment. Skilled in troubleshooting complex issues, driving technical innovations, and enhancing functionality and performance across diverse platforms.
 education:
