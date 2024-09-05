@@ -4,7 +4,7 @@ sidebar:
     education: True
 
     name: Adolfo Luzardo Cabrera
-    tagline: Technical Expert 🧑‍💻 | 10+ Years in Software Dev, Remote Team Leadership & Release Management
+    tagline: Technical Expert | 10+ Years in Software Dev, Remote Team Leadership & Release Management
     avatar: profile.png
 
     email: adolfoluzardocabrera@gmail.com
@@ -18,16 +18,16 @@ sidebar:
     languages:
       title: Languages
       info:
-        - idiom: 🇪🇸 Spanish
+        - idiom: Spanish
           level: Native
-        - idiom: 🇬🇧 English
+        - idiom: English
           level: Professional
 
     interests:
       title: Interests
       info:
-        - item: 💰 Fintech
-        - item: 🔗 Blockchain
+        - item: Fintech
+        - item: Blockchain
 
 career-profile:
     title: Professional Summary
@@ -41,7 +41,7 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: 🎓 Bachelor's Degree in Telecommunications Technology Engineering
+      - degree: Bachelor's Degree in Telecommunications Technology Engineering
         university: ULPGC
         time: 2009 - 2014
         details: |
