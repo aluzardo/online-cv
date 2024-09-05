@@ -1,37 +1,25 @@
 sidebar:
-    position: left # position of the sidebar : left or right
-    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    position: left
+    about: False
+    education: True
 
-    # Profile information
     name: Adolfo Luzardo Cabrera
-    tagline: Technical Expert 🧑‍💻
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    tagline: Technical Expert 🧑‍💻 | 10+ Years in Software Dev, Remote Team Leadership & Release Management
+    avatar: profile.png
 
-    # Sidebar links
     email: adolfoluzardocabrera@gmail.com
     phone: +34 636175744
     timezone: Atlantic/Canary Timezone
     citizenship: Spanish
-    website: aluzardo.github.io
+    website: https://aluzardo.github.io
     linkedin: adolfoluzardo
-    xing: # null
     github: aluzardo
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@AdolfoLuzardo'
-    stack-overflow: 4210597/adolfo-luzardo-cabrera # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: https://aluzardo.github.io/CVAdolfoLuzardoCabrera.pdf
 
     languages:
       title: Languages
       info:
         - idiom: 🇪🇸 Spanish
           level: Native
-
         - idiom: 🇬🇧 English
           level: Professional
 
@@ -39,21 +27,15 @@ sidebar:
       title: Interests
       info:
         - item: 💰 Fintech
-          link:
-
         - item: 🔗 Blockchain
-          link:
-
-        - item: 🍲 Gastronomy 
-          link:
-
-        - item: ✈️ Travelling 
-          link: 
+        - item: 🍲 Gastronomy
+        - item: ✈️ Traveling
 
 career-profile:
     title: Professional Summary
     summary: |
-      Seasoned technology professional with over 10 years of experience in software development, technical support, and operations management. Proven expertise in leading technical teams, managing complex projects, and driving software releases. Adept at remote team leadership, technical integrations, and troubleshooting across various sectors, including iGaming, logistics, and technical consulting. Committed to continuous learning and delivering innovative solutions in dynamic environments.
+      Seasoned technology professional with over 10 years of experience in software development, technical support, and operations management. Proven expertise in leading technical teams, managing complex projects, and driving software releases. Adept at remote team leadership, technical integrations, and troubleshooting across various sectors, including iGaming, logistics, and Fintech. Committed to continuous learning and delivering innovative solutions in dynamic environments.
+
 education:
     title: Education
     info:
@@ -61,89 +43,105 @@ education:
         university: ULPGC
         time: 2009 - 2014
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Specialized in Telematics Engineering, with strong emphasis on networking, telecommunications, and software development methodologies.
+
 experiences:
-    title: Experiences
+    title: Work Experience
     info:
       - role: Operations Support Manager
         time: 2022 - 2024 (2 years)
         company: CIRCL Technologies Ltd, Remote
         details: |
-            - Release Management: Oversaw and facilitated software releases, coordinating with cross-functional teams to ensure minimal customer disruption and smooth deployment.
-            - Technical Support: Managed technical support operations, addressing and resolving complex customer queries efficiently to maintain high satisfaction.
-            - Technical Integration: Acted as the technical expert for new and existing customer integrations, managing stakeholder communication and enhancing product solutions.
+            - Release Management: Oversaw and facilitated weekly software releases for backend, frontend, and mobile apps, using ConfigCat and Jira.
+            - Technical Support: Led the technical support team, resolving complex customer queries and issues, ensuring high satisfaction.
+            - Technical Integration: Managed customer integration projects, ensuring seamless onboarding and system setup across international markets.
+            - Achievements: Successfully launched platforms in Kenya and Portugal, training over 500 employees on-site.
+
       - role: Lead Technical Support Engineer
         time: 2022 - 2022 (10 months)
         company: Gaming Innovation Group, Remote
         details: |
-          - Led the “GiG Magic Brand Support” team in a 100% remote capacity, providing expert support to frontend developers from HardrockCasino, Guts, Thrills, Superlenny, Highroller, Rolla, and Betspin.
-          - Assisted and educated frontend developers on using the GiG Magic API, Hubot, and Cashier Payment App.
-          - Shared knowledge and best practices regarding APIs and applications.
-          - Investigated, identified problems, diagnosed, and resolved bugs in the GiG Magic API, Hubot, and Cashier Payment App.
-          - Developed and implemented new features to enhance system functionality and performance.
-          - Prioritized and managed tasks and issues on the project board.
-          - Monitored system logs and communication channels to ensure stability and performance.
-          - Provided 24/7 production support, addressing and fixing issues promptly.
-          - Onboarded and trained new team members on systems and processes.
-          - Deployed and released new versions of the GiG Magic API.
+          - Led the GiG Magic Brand Support team, supporting frontend developers for multiple casino platforms, including HardrockCasino and Guts.
+          - Provided 24/7 technical support for system stability, investigated bugs, and implemented fixes to the GiG Magic API, Hubot, and Cashier Payment App.
+
       - role: Software Developer
         time: 2016 - 2022 (6 years)
         company: Gaming Innovation Group, Remote
         details: |
-         - Contributed to the GiG Magic Backend Team, focusing on migrating from a monolithic to a microservices architecture and transitioning databases from RethinkDB to ElasticSearchDB.
-         - Developed backend services in NodeJS and Golang, enhancing the GiG Magic API and meeting new requirements from various casino clients.
-         - Participated in a remote team, collaborating with team members across Europe.
+          - Migrated the GiG Magic backend from a monolithic architecture to microservices, enhancing scalability.
+          - Integrated new casinos into the GiG Magic API, refactored services from Node.js to Golang, and improved database performance by switching from RethinkDB to ElasticsearchDB.
+
       - role: QA Engineer
-        time: 2016 - 2016 (5 months)
-        company: Gaming Innovation Group, Marbella (Spain)
+        time: 2016 (5 months)
+        company: Gaming Innovation Group, Marbella, Spain
         details: |
-          - Worked as a QA Engineer for three casino platforms: Kaboo, Superlenny, and Thrills.
-          - Developed an open-source End-to-End testing framework using Protractor, Cucumber, and Appium.
-          - Conducted smoke testing, managed issues via GitHub and Zenhub, and contributed to behavior-driven development.
+          - Developed an end-to-end testing framework using Protractor, Cucumber, and Appium for three casino platforms.
+          - Conducted behavior-driven development and smoke testing to ensure platform reliability.
+
       - role: Junior Frontend Developer
-        time: 2016 - 2016 (3 months)
-        company: Gaming Innovation Group, Marbella (Spain)
+        time: 2016 (3 months)
+        company: Gaming Innovation Group, Marbella, Spain
         details: |
-          - Worked on AngularJS applications for casinos, focusing on bug fixes and feature development.
-          - Collaborating with the team using GitHub for version control and code integration.
+          - Worked on bug fixes and feature development for AngularJS applications, ensuring better user experience across casino platforms.
+
       - role: Full-stack Developer
         time: 2015 - 2016 (1 year)
-        company: Symless, Reading (UK)
+        company: Symless, Reading, UK
         details: |
-          - Developed web applications using Symfony2, PHP, HTML, CSS, and JavaScript.
-          - Implemented payment solutions (Stripe, PayPal) and adhered to SCRUM methodology.
+          - Developed and maintained the Symless e-commerce platform using Symfony2, PHP, and JavaScript, integrating payment solutions like Stripe and PayPal.
+
       - role: Full-stack Developer
         time: 2014 - 2015 (1 year)
-        company: Singular Factory, Canary Islands (Spain)
+        company: The Singular Factory, Canary Islands, Spain
         details: |
-          - Developed web and mobile applications using Symfony2, PHP, HTML, CSS, AngularJS, and Java.
-          - Led various projects including Mercadis Web and App, GDAPortalEmpleadoWeb, and NativeAd Web and App.
+          - Developed web and mobile applications using Symfony2, PHP, AngularJS, and Java for various projects, including Mercadis Web, GDAPortalEmpleadoWeb, and NativeAd.
+
 skills:
-    title: Skills &amp; Proficiency
-
+    title: Software, Web & Mobile Development
     toolset:
-      - name: 🚀 Release Management
-        level: 98%
+      - name: Node.js
+      - name: Golang
+      - name: PHP
+      - name: JavaScript
+      - name: Java
+      - name: jQuery
+      - name: Symfony
+      - name: HTML
+      - name: CSS
+      - name: Websockets
+      - name: REST APIs
+      - name: Web Development
+      - name: Mobile Applications
+      - name: Android
+      - name: iOS
 
-      - name: 👥 Team Leadership
-        level: 97%
+    title: Tools & Platforms
+    toolset:
+      - name: Jira
+      - name: Postman
+      - name: Git
+      - name: Docker
+      - name: Jenkins
+      - name: ConfigCat
+      - name: Grafana
+      - name: Kibana
+      - name: CloudWatch
+      - name: VPN
+      - name: Amazon Web Services
+      - name: SOAP UI
 
-      - name: 📞 Customer Service
-        level: 75%
+    title: Technical Communication & Collaboration
+    toolset:
+      - name: Technical Communication
+      - name: Team Leadership
+      - name: Teamwork
+      - name: Customer Service
+      - name: Problem Solving
 
-      - name: 🗣 Technical Communication
-        level: 95%
-
-      - name: 💻 Software Development
-        level: 85%
-
-      - name: 🧠 Problem solving
-        level: 98%
+    title: Release & Project Management
+    toolset:
+      - name: Release Management
+      - name: Scrum
+      - name: Agile
 
 footer: 
