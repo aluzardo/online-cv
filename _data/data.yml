@@ -4,7 +4,7 @@ sidebar:
     education: True
 
     name: Adolfo Luzardo Cabrera
-    tagline: Technical Expert | 10+ Years in Software Dev, Remote Team Leadership & Release Management
+    tagline: Technical Integration Manager | 10+ Years in Software Dev, Remote Team Leadership & Release Management
     avatar: profile.png
 
     email: adolfoluzardocabrera@gmail.com
@@ -32,11 +32,11 @@ sidebar:
 career-profile:
     title: Professional Summary
     summary: |
-      Seasoned technology professional with over 10 years of experience in software development, technical support, and operations management. Proven expertise in leading technical teams, managing complex projects, and driving software releases. Adept at remote team leadership, technical integrations, and troubleshooting. Committed to continuous learning and delivering innovative solutions in dynamic environments. 
+      Seasoned technology professional with over 10 years of experience in software development, technical support, and integration management. Proven expertise in leading technical teams, managing complex projects, and driving software releases. Adept at remote team leadership, technical integrations, and troubleshooting. Committed to continuous learning and delivering innovative solutions in dynamic environments. 
       - **Software, Web & Mobile Development:** Node.js, Golang, PHP, JavaScript, Java, jQuery, Symfony, HTML, CSS, Websockets, REST APIs, Web Development, Mobile Applications, Android and iOS.
-      - **Tools & Platforms:** Jira, Postman, Git, Docker, Jenkins, ConfigCat, Grafana, Kibana, CloudWatch, VPN, Amazon Web Services and SOAP UI.
+      - **Tools & Platforms:** Jira, Postman, Git, Docker, Jenkins, ConfigCat, Grafana, Kibana, CloudWatch, VPN, SQL, Amazon Web Services and SOAP UI.
       - **Technical Communication & Collaboration:** Technical Communication, Team Leadership, Teamwork, Customer Service and Problem Solving.
-      - **Release & Project Management:** Release Management, Scrum and Agile.
+      - **Release & Project Management:** Release Management, Integration Management, Scrum and Agile.
 
 education:
     title: Education
@@ -56,8 +56,8 @@ experiences:
         details: |
             - **Release Management:** Oversaw and facilitated weekly software releases for backend, frontend, and mobile apps, more than 100 releases.
             - **Technical Support:** Led the technical support team, resolving complex customer queries and issues, ensuring high satisfaction.
-            - **Technical Integration:** Managed customer integration projects, ensuring seamless onboarding and system setup across international markets.
-            - **Achievements:** Successfully launched CIRCL platforms in Kenya and Portugal, training over 500 employees.
+            - **Technical Integration:** Managed technical integration with third party providers like Safaricom MPESA payments API and Africastalking SMS API.
+            - **Achievements:** Successfully launched CIRCL platforms in Kenya and Portugal, over 500 employees started using the app.
 
       - role: Lead Technical Support Engineer
         time: Jan 2022 - Nov 2022
@@ -90,7 +90,7 @@ experiences:
         time: Oct 2015 - May 2016
         company: Symless, Reading, UK
         details: |
-          - Developed and maintained the Symless e-commerce platform using Symfony2, PHP, and JavaScript, integrating payment solutions like Stripe and PayPal.
+          - Developed and maintained the Symless e-commerce platform using Symfony2, PHP, and JavaScript, integrating payments solutions like Stripe and PayPal.
 
       - role: Full-stack Developer
         time: Mar 2014 - Oct 2015
