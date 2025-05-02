@@ -50,6 +50,18 @@ education:
 experiences:
     title: Work Experience
     info:
+     - role: LogicX Support Lead
+        time: 2024 - now
+        company: Gaming Innovation Group, Remote
+        details: |
+            - Lead the support and implementation of GiG LogicX, a no-code rules engine enabling online casino brands to automate workflows through a drag-and-drop interface.
+            - Oversee client onboarding, ensuring smooth transitions and strong understanding of LogicX capabilities.
+            - Design and build custom automation rules aligned with client business logic and regulatory requirements.
+            - Investigate and resolve LogicX-related incidents to maintain system reliability and client satisfaction.
+            - Act as liaison between clients and the development team, collecting and relaying feedback for continuous product improvement.
+            - Provide hands-on technical support to brands, helping them maximize LogicX for their operational needs.
+            - Manage and update LogicX rule templates to reflect best practices and evolving use cases.      
+      
       - role: Operations Support Manager
         time: Nov 2022 - Aug 2024
         company: CIRCL Technologies Ltd, Remote
