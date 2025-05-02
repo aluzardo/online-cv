@@ -50,7 +50,7 @@ education:
 experiences:
     title: Work Experience
     info:
-     - role: LogicX Support Lead
+      - role: LogicX Support Lead
         time: Nov 2024 - 2025
         company: Gaming Innovation Group, Remote
         details: |
